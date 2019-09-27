@@ -9,7 +9,7 @@ https://software.intel.com/en-us/blogs/2012/01/31/vectorization-find-out-what-it
 https://www.codingame.com/playgrounds/283/sse-avx-vectorization/what-is-sse-and-avx
 
 For some speedups in the Helmholtz kernel context, see demo_slides.pdf.  
-Wen Yan's simd demo https://github.com/wenyan4work/DemoSIMD, which also has memory cache tutorials. 
+Wen Yan's simd demo https://github.com/wenyan4work/DemoSIMD, which also has simd speed up tests and memory cache tutorials. 
 
 ## test autovec for icc and gcc
 * icpc -fPIC -g -O3 -march=native -funroll-loops -fopenmp -std=c++17 -DVCL -I./version1 main.cc; ./a.out
