@@ -25,3 +25,6 @@ Wen Yan's simd demo https://github.com/wenyan4work/DemoSIMD, which also has simd
 * embree, https://github.com/embree/embree/tree/master/common/simd
 * QuickVec, https://bitbucket.org/kellogg92/quickvec/src/master/
 * c++ std::experimental::simd, https://github.com/VcDevel/std-simd
+* nsimd, https://github.com/agenium-scale/nsimd
+* MIPP, https://github.com/aff3ct/MIPP
+* SLEEF, https://sleef.org/
